@@ -1,3 +1,6 @@
+/* Follow the Readme file to retrive one's own #GOOGLE_API_KEY,#CALENDAR_ID and 
+   fill in the below mentioned const */
+
 export const 
-  GOOGLE_API_KEY = 'AIzaSyAbjZOKODzMe3ApQoJw0F_NMdRPPtMZR5g',
-  CALENDAR_ID = 's2s01cgepn1e2jka6rlf85l97k@group.calendar.google.com';
+  GOOGLE_API_KEY = '#GOOGLE_API_KEY',
+  CALENDAR_ID = '#CALENDAR_ID';

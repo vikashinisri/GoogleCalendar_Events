@@ -1,4 +1,8 @@
+Google CalendarEvent 
 
+This app integrate with google calendar and displays the calendar events then allow to create a new event and shows the status of scheduled meetings.
+
+##Follow the below instructions to get the **GOOGLE_API_KEY** and **CALENDAR_ID** and provide in Config file to view the calendar details.
 
 ### Google API Key
 
@@ -9,7 +13,7 @@
 5. A popup will open, which will give you the **API Key** (GOOGLE_API_KEY).
 6. Now Create your web client with following settings. (Give your own desired port number and urls for your app).
 
-### Google Calendar Configuartion
+### Google Calendar Configuration
 
 1.  Goto [Google Calendar](https://calendar.google.com "Google Calendar") and create a new calendar.
 2.  Under _Access Permissions_ section, just enable the **Make available to public** checkbox. And in the right side dropdown, make sure **See all event details** option is selected.
@@ -30,5 +34,3 @@ Just run the code below, all your build files will be generated inside docs fold
 ```
 npm run build
 ```
-
-
